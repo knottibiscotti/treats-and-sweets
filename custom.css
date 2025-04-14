@@ -2,32 +2,25 @@
 
 /* Change the background color of the whole site */
 .bg-background {
-    background: #FEFAE0 !important;
+    background: #e0e4fe !important;
 }
 
 /* Make all headings use a special font and be bold */
 h1 {
     font-family: 'Permanent Marker' !important;
+    color: #283618 !important;  /* Dark Green */
 }
 
 h2, h3, h4, h5, h6 {
     font-family: 'Architects Daughter' !important;
-}
-
-/* Give different heading levels different colors */
-h1, h4 {
-    color: #d30c7b !important;  /* Pink */
-}
-
-h2, h5 {
-    color: #ba5a31 !important;  /* Orange */
-}
-
-h3, h6 {
-    color: #508484 !important;  /* Teal */
+    color: #606C38 !important;  /* Light Green */
 }
 
 body {
     font-family: 'Mitr' !important;
     color: #2d2d27 !important;
+}
+
+div.relative {
+    background: #FEFAE0 !important;
 }
