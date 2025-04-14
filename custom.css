@@ -15,7 +15,7 @@ h2, h3, h4, h5, h6 {
     background: #FEFAE0;
 }
 
-main, #text {
+article {
     font-family: 'Mitr' !important;
     font-weight: 200;
     color: #2d2d27 !important;
@@ -38,4 +38,9 @@ signature {
     font-weight: lighter;
     text-align: right;
     color: #BC6C25;
+}
+
+hr {
+  border: 5px solid #606C38;
+  border-radius: 2px;
 }
