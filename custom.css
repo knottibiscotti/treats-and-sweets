@@ -15,7 +15,7 @@ h2, h3, h4, h5, h6 {
     background: #FEFAE0;
 }
 
-article {
+article, main, #text, p {
     font-family: 'Mitr' !important;
     font-weight: 200;
     color: #2d2d27 !important;
@@ -41,6 +41,6 @@ signature {
 }
 
 hr {
-  border: 5px solid #606C38;
-  border-radius: 2px;
+    border: 1px solid #606C38;
+    width: 33%;
 }
