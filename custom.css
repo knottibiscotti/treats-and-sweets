@@ -40,7 +40,7 @@ signature {
     color: #BC6C25;
 }
 
-hr {
-    border: 1px solid #606C38;
+.border-b, hr {
+    border-bottom: 1px solid #606C38;
     width: 33%;
 }
