@@ -1,15 +1,33 @@
-@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Architects+Daughter|Mitr&display=swap');
 
-div.relative {
-    background-color: steelblue;
+/* Change the background color of the whole site */
+.bg-background {
+    background: #FEFAE0 !important;
 }
 
+/* Make all headings use a special font and be bold */
 h1 {
-    font-family: 'Permanent Marker';
-    color: #2f2;
+    font-family: 'Permanent Marker' !important;
 }
 
-p {
-    font-family: 'Architects Daughter';
-    color: #22f;
+h2, h3, h4, h5, h6 {
+    font-family: 'Architects Daughter' !important;
+}
+
+/* Give different heading levels different colors */
+h1, h4 {
+    color: #d30c7b !important;  /* Pink */
+}
+
+h2, h5 {
+    color: #ba5a31 !important;  /* Orange */
+}
+
+h3, h6 {
+    color: #508484 !important;  /* Teal */
+}
+
+body {
+    font-family: 'Mitr' !important;
+    color: #2d2d27 !important;
 }
