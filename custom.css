@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Architects+Daughter|Mitr&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Architects+Daughter|Mitr|Varela|ABeeZee&display=swap');
 
 h1 {
     font-family: 'Architects Daughter' !important;
@@ -16,13 +16,17 @@ h2, h3, h4, h5, h6 {
 }
 
 article, main, #text, p {
-    font-family: 'Mitr' !important;
+    font-family: 'ABeeZee' !important;
     font-weight: 200;
     color: #2d2d27 !important;
 }
 
+article {
+    padding-top: 0.5em;
+}
+
 aside {
-    font-family: 'Mitr' !important;
+    font-family: 'ABeeZee' !important;
     font-size: smaller;
     border-style: double;
     border-color: #BC6C25;
