@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Architects+Daughter&display=swap');
 
+body {
+    background: steelblue;
+    color: #111111;
+}
+
 h1 {
     font-family: 'Permanent Marker';
     color: #2f2;
