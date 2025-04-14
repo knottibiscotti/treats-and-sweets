@@ -4,15 +4,18 @@
     background: #DDA15E !important;
 }
 
-/* Make all headings use a special font and be bold */
 h1 {
-    font-family: 'Permanent Marker' !important;
+    font-family: 'Architects Daughter' !important;
     color: #283618 !important;  /* Dark Green */
 }
 
 h2, h3, h4, h5, h6 {
     font-family: 'Architects Daughter' !important;
     color: #606C38 !important;  /* Light Green */
+}
+
+div.relative, main {
+    background: #FEFAE0;
 }
 
 #text {
@@ -25,13 +28,15 @@ header, footer, aside {
     background: #DDA15E;
 }
 
-/* The sidebar... */
 aside {
     font-family: 'Mitr' !important;
     font-size: smaller;
     color: #321904;
 }
 
-main {
-    background: #FEFAE0 !important;
+signature {
+    font-family: 'Architects Daughter' !important;
+    font-size: larger;
+    font-weight: lighter;
+    color: #BC6C25 !important;
 }
