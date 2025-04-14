@@ -17,11 +17,13 @@ h2, h3, h4, h5, h6 {
 
 p {
     font-family: 'Mitr' !important;
+    font-weight: lighter;
     color: #2d2d27 !important;
 }
 
 /* The sidebar... */
-.aside {
+aside {
+    font-family: 'Mitr' !important;
     font-size: smaller;
     color: #321904;
     background: #BC6C25;
