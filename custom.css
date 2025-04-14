@@ -5,7 +5,7 @@
     src: url(https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap);
 }
 
-#mainh1 {
+h1 {
     color: green;
     font-family: Permanent Marker;
 }
