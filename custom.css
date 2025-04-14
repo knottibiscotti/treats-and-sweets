@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Architects+Daughter|Mitr&display=swap');
 
-/* Change the background color of the whole site */
 .bg-background {
     background: #e0e4fe !important;
 }
@@ -16,9 +15,16 @@ h2, h3, h4, h5, h6 {
     color: #606C38 !important;  /* Light Green */
 }
 
-body {
+p {
     font-family: 'Mitr' !important;
     color: #2d2d27 !important;
+}
+
+/* The sidebar... */
+.aside {
+    font-size: smaller;
+    color: #321904;
+    background: #BC6C25;
 }
 
 div.relative {
