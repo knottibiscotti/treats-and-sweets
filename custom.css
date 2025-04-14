@@ -6,6 +6,7 @@
 
 h1 {
     font-family: 'Architects Daughter' !important;
+    font-weight: bold;
     color: #283618 !important;  /* Dark Green */
 }
 
@@ -24,19 +25,20 @@ div.relative, main {
     color: #2d2d27 !important;
 }
 
-header, footer, aside {
-    background: #DDA15E;
-}
-
 aside {
     font-family: 'Mitr' !important;
     font-size: smaller;
+    border-style: groove;
+    border-color: #BC6C25;
+    border-radius: 3px;
     color: #321904;
+    background: #DDA15E;
 }
 
 signature {
-    font-family: 'Architects Daughter' !important;
+    font-family: 'Permanent Marker';
     font-size: larger;
     font-weight: lighter;
-    color: #BC6C25 !important;
+    text-align: right;
+    color: #BC6C25;
 }
