@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Architects+Daughter|Mitr&display=swap');
 
 .bg-background {
-    background: #e0e4fe !important;
+    background: #DDA15E !important;
 }
 
 /* Make all headings use a special font and be bold */
@@ -15,10 +15,14 @@ h2, h3, h4, h5, h6 {
     color: #606C38 !important;  /* Light Green */
 }
 
-p {
+#text {
     font-family: 'Mitr' !important;
-    font-weight: lighter;
+    font-weight: 200;
     color: #2d2d27 !important;
+}
+
+header, footer, aside {
+    background: #DDA15E;
 }
 
 /* The sidebar... */
@@ -26,9 +30,8 @@ aside {
     font-family: 'Mitr' !important;
     font-size: smaller;
     color: #321904;
-    background: #BC6C25;
 }
 
-div.relative {
+main {
     background: #FEFAE0 !important;
 }
