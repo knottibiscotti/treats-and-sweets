@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Architects+Daughter|Mitr&display=swap');
 
-.bg-background {
-    background: #DDA15E !important;
-}
-
 h1 {
     font-family: 'Architects Daughter' !important;
     font-weight: bold;
@@ -28,11 +24,12 @@ div.relative, main {
 aside {
     font-family: 'Mitr' !important;
     font-size: smaller;
-    border-style: groove;
+    border-style: double;
     border-color: #BC6C25;
-    border-radius: 3px;
+    border-radius: 5px;
     color: #321904;
     background: #DDA15E;
+    padding: 0.5em;
 }
 
 signature {
