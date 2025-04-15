@@ -1,6 +1,7 @@
 {
   "title": "Knotty Biscotti's Treats!",
   "logo": "kb.png",
+  "showNavbar": true,
   "showSidebar": true,
   "nav": {
     "social": [
