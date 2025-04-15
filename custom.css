@@ -1,24 +1,35 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Architects+Daughter|Mitr|Varela|ABeeZee&display=swap');
 
+:root {
+    --h1-colour:      #283618;
+    --sub-colour:     #606C38;
+    --bg-colour:      #FEFAE0;
+    --fg-colour:      #2D2D27;
+    --accent-colour:  #BC6C25;
+    --nav-shadow:     #9C8A79;
+    --nav-background: #DDA15E;
+    --nav-text:       #321904;
+}
+
 h1 {
     font-family: 'Architects Daughter' !important;
     font-weight: bold;
-    color: #283618 !important;  /* Dark Green */
+    color: var(--h1-colour) !important;
 }
 
 h2, h3, h4, h5, h6 {
     font-family: 'Architects Daughter' !important;
-    color: #606C38 !important;  /* Light Green */
+    color: var(--sub-colour) !important;
 }
 
 .bg-background, div.relative, main {
-    background: #FEFAE0;
+    background: var(--bg-colour);
 }
 
 article, main, #text, p {
     font-family: 'ABeeZee' !important;
     font-weight: 200;
-    color: #2d2d27 !important;
+    color: var(--fg-colour) !important;
 }
 
 article {
@@ -29,10 +40,11 @@ aside {
     font-family: 'ABeeZee' !important;
     font-size: smaller;
     border-style: double;
-    border-color: #BC6C25;
+    border-color: var(--accent-colour);
     border-radius: 5px;
-    color: #321904;
-    background: #DDA15E;
+    color: var(--nav-text);
+    text-shadow: 2px 2px var(--nav-shadow);
+    background: var(--nav-background);
     padding: 0.5em;
 }
 
@@ -42,11 +54,11 @@ signature {
     font-weight: lighter;
     text-align: right;
     clear: left;
-    color: #BC6C25;
+    color: var(--accent-colour);
 }
 
 .border-b, hr {
-    border-bottom: 1px solid #606C38;
+    border-bottom: 1px solid var(--sub-colour);
     width: 33%;
 }
 
