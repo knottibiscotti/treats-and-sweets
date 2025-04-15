@@ -1,9 +1,8 @@
 {
-  "title": "Knotty Biscotti's Treats!",
-  "logo": "media/kb.png",
-  "showNavbar": true,
   "showSidebar": true,
   "nav": {
+    "title": "Knotty Biscotti's Treats!",
+    "logo": "media/kb.png",
     "social": [
       {
         "label": "bluesky",
