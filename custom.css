@@ -49,21 +49,25 @@ aside {
 }
 
 signature {
-    font-family: 'Permanent Marker';
+    font-family: 'Architects Daughter';
     font-size: larger;
     font-weight: lighter;
     text-align: right;
-    clear: left;
+    float: right;
     color: var(--accent-colour);
 }
 
-.border-b, hr {
+.border-b {
     border-bottom: 1px solid var(--sub-colour);
     width: 33%;
 }
 
 hr {
-    clear: left right;
+    clear: both;
+    border: 1px solid var(--sub-colour) !important;
+    color: var(--sub-colour);
+    width: 66%;
+    margin: auto;
 }
 
 img.rounded-md {
