@@ -41,6 +41,7 @@ signature {
     font-size: larger;
     font-weight: lighter;
     text-align: right;
+    clear: left;
     color: #BC6C25;
 }
 
