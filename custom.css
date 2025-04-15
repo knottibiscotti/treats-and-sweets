@@ -50,5 +50,7 @@ signature {
 }
 
 img.rounded-md {
-    float: right;
+    float: left;
+    padding: 15px;
+    vertical-align: middle;
 }
