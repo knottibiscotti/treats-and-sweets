@@ -1,3 +1,19 @@
 {
-  "showSidebar": true
+  "title": "Knotty Biscotti's Treats!",
+  "logo": "kb.png",
+  "showSidebar": true,
+  "nav": {
+    "social": [
+      {
+        "label": "bluesky",
+        "name": "BlueSky!",
+        "href": "https://bsky.app/profile/knottybiscotti.bsky.social"
+      },
+      {
+        "label": "ko-fi",
+        "name": "Ko-Fi!",
+        "href": "https://ko-fi.com/knottybiscotti"
+      },
+    ]
+  }
 }
