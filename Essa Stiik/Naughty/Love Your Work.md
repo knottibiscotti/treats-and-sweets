@@ -143,3 +143,6 @@ The Captain cleared his throat, "G-great work, Chris."  His voice came over the 
 "Thanks, Captain Fowler," she panted softly.  She decided she was just going to own it.  There's no reason to be embarrassed, just because everyone on the ship got to hear you cum your brains out.  You saved them, it's cool.  That'd been Essa's thinking, but deep down she was sure she would be looking for a new crew soon.  Humans were less okay with stuff like that.  She'd never understood quite why.
 
 She *really* hoped Captain Fowler would let her keep the device when she left.
+
+***
+<signature>Knotty</signature>
