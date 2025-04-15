@@ -33,7 +33,7 @@ article, main, #text, p {
 }
 
 article {
-    padding-top: 0.5em;
+    padding-top: 0.75em;
 }
 
 aside {
@@ -58,8 +58,7 @@ signature {
 }
 
 .border-b {
-    border-bottom: 1px solid var(--sub-colour);
-    width: 33%;
+    border-bottom: 2px double var(--sub-colour);
 }
 
 hr {
