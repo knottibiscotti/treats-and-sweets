@@ -48,3 +48,7 @@ signature {
     border-bottom: 1px solid #606C38;
     width: 33%;
 }
+
+img.rounded-md {
+    float: right;
+}
