@@ -62,6 +62,10 @@ signature {
     width: 33%;
 }
 
+hr {
+    clear: left right;
+}
+
 img.rounded-md {
     float: left;
     padding: 15px;
