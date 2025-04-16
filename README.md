@@ -1,3 +1,7 @@
+---
+title: 0001-welcome
+---
+
 # Knotty Biscotti's (sometimes) Naughty Treats
 
 Hello there! Thanks for stopping by, I'm still moving in but there's a few things maybe you can look at while you're here.  Check over on the side.
