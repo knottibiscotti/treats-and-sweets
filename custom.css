@@ -23,8 +23,8 @@ header {
 }
 
 .transition {
-    font-family: var(--font-body);
-    text-shadow: 0.25px 0.25px 0.25px var(--nav-shadow);
+    font-family: 'ABeeZee';
+    text-shadow: 0.25em 0.25em 0.25em var(--nav-shadow);
 }
 
 h1 {
