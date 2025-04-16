@@ -10,6 +10,12 @@
     --nav-background: #DDA15E;
     --nav-text:       #321904;
     --font-title:     'Architects Daughter';
+    --font-body:      'ABeeZee';
+    --font-banner:    'Permanent Marker';
+}
+
+header {
+    font-family: var(--font-banner);
 }
 
 .text-primary-subtle {
@@ -17,7 +23,8 @@
 }
 
 .transition {
-        text-shadow: 0.25px 0.25px 0.25px var(--nav-shadow);
+    font-family: var(--font-body);
+    text-shadow: 0.25px 0.25px 0.25px var(--nav-shadow);
 }
 
 h1 {
@@ -36,7 +43,7 @@ h2, h3, h4, h5, h6 {
 }
 
 article, main, #text, p {
-    font-family: 'ABeeZee' !important;
+    font-family: var(--font-body) !important;
     font-weight: 200;
     color: var(--fg-colour) !important;
 }
@@ -46,7 +53,7 @@ article {
 }
 
 aside {
-    font-family: 'ABeeZee';
+    font-family: var(--font-body) !important;
     font-size: smaller;
     border-style: double;
     border-color: var(--accent-colour);
