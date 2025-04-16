@@ -2,8 +2,6 @@
 title: Knotty Biscotti's (sometimes) Naughty Treats
 tags:
   - welcome
-aliases:
-  - A
 ---
 
 
