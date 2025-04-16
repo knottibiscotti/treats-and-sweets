@@ -9,6 +9,15 @@
     --nav-shadow:     #9C8A79;
     --nav-background: #DDA15E;
     --nav-text:       #321904;
+    --font-title:     'Architects Daughter';
+}
+
+.text-primary-subtle {
+    color: var(--nav-text);
+}
+
+.transition {
+        text-shadow: 0.25px 0.25px 0.25px var(--nav-shadow);
 }
 
 h1 {
@@ -37,13 +46,12 @@ article {
 }
 
 aside {
-    font-family: 'ABeeZee' !important;
+    font-family: 'ABeeZee';
     font-size: smaller;
     border-style: double;
     border-color: var(--accent-colour);
     border-radius: 5px;
     color: var(--nav-text);
-    text-shadow: 2px 2px var(--nav-shadow);
     background: var(--nav-background);
     padding: 0.5em;
 }
