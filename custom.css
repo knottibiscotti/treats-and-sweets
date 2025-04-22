@@ -90,7 +90,7 @@ hr {
 }
 
 .prose :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
-    color: var(--jjm-accent-colour);
+    color: var(--accent-colour);
 }
 
 img.rounded-md {
