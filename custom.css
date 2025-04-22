@@ -89,6 +89,10 @@ hr {
     margin-bottom: 1.25em;
 }
 
+.prose :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    color: var(--jjm-accent-colour);
+}
+
 img.rounded-md {
     float: left;
     padding: 15px;
