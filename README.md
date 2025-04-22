@@ -14,5 +14,5 @@ If you somehow found your way here and it *wasn't* from BlueSky, you should find
 
 [![BlueSky](media/bsky-icon.png)](https://bsky.app/profile/knottybiscotti.bsky.social)
 [![Ko-Fi](media/ko-fi.png)](https://ko-fi.com/knottybiscotti)
-
+***
 <signature>Knotty</signature>
