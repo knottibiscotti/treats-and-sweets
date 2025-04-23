@@ -99,6 +99,17 @@ img.rounded-md {
     vertical-align: middle;
 }
 
+/* For when I can think of a way to have additional attributes for certain types of in-article images.
+img.rounded-md {
+    padding: 0.5em;
+    vertical-align: middle;
+    width: 60%;
+    box-shadow: 0px 0px 10px black;
+    margin: 1em;
+    float: right;
+}
+*/
+
 /* Callout / description block */
 .sm\:text-xl {
     font-size: 0.85em;
