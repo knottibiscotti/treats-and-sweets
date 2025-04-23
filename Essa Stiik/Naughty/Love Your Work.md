@@ -1,6 +1,6 @@
 Wending her way through the narrow, gloomy spaces in the starship's underbelly, Essa was suddenly aware of an odd tingling.  She felt her hair stand up a little while she turned a slow circle, as best she could in a space barely wider than her shoulders.  It felt like she was at the edge of a powerful electromagnetic field and after a moment of uncertainty she decided that the problem was on the other side of the bulkhead to her right.
 
-![[Essa at Work.png|400]]
+![[Essa at Work.png|375]]
 
 "Hey Cap?" Her tone was her usual breezy singsong, just a little more upbeat than usual now that she'd found her prey, "Pretty sure I just found the problem. What's in compartment …" she squinted in the dim light, "4-20-2-Q?" She was wearing a simple headset that looped over her ear with a tiny boom mic that connected her to the ship's VOX.  Any time she spoke it turned on and broadcast her voice to the ship's common channel. Anyone who was also wearing one would hear her, but she was also broadcast to speakers on the bridge. She knew the captain thought this was pretty high priority so she didn't worry about interrupting anyone up there. What was the captain's name again? Wren? It was something about Earth birds, she was sure of that, but she couldn't remember exactly. All the humans had names and most of them were different. How could she keep them all in her head? It's just silly.
 
@@ -147,4 +147,6 @@ The Captain cleared his throat, "G-great work, Chris."  His voice came over the 
 She *really* hoped Captain Fowler would let her keep the device when she left.
 
 ***
+Updated to include the art of Essa done by the very talented artist and my friend [Zimaja](https://linktr.ee/zimaja)  She has more, higher resolution art of Essa as well as her own OCs over on her [Patreon](https://www.patreon.com/c/zimaja) and on [BlueSky](https://bsky.app/profile/xxxzilu.bsky.social). Go check them out!
+
 <signature>Knotty</signature>
