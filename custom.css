@@ -120,3 +120,29 @@ img.rounded-md {
     border-radius: 5px;
     box-shadow: 4px 3px 5px var(--accent-colour);
 }
+
+/* Giscus styling */
+.gsc-reactions {
+    padding: 0.4em;
+    border-radius: 5px;
+    border: 1px solid vaar(--accent-colour);
+    color: var(--fg-colour);
+}
+
+.gsc-comments .gsc-comment-box {
+    text-underline-offset: 4px;
+    transition: all 0.2s;
+    color: var(--fg-colour);
+    font-family: 'Varela Round';
+}
+
+.gsc-comment-box-tabs .gsc-comment-box-bottom {
+    background: var(--nav-background);
+    border-bottom-color: var(--bg-colour);
+}
+
+.gsc-comment-box-textarea .gsc-comment-box-textarea-extras .color-border-primary {
+    background: var(--bg-colour);
+    border-color: var(--bg-colour);
+    font-family: 'Varela Round';
+}
