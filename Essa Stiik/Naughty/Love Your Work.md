@@ -178,4 +178,5 @@ Updated to include the art of Essa done by the very talented artist and my frien
         data-lang="en"
         data-loading="lazy"
         crossorigin="anonymous"
-        async></script>
+        async>
+</script>
