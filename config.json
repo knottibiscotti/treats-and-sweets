@@ -1,5 +1,6 @@
 {
   "showSidebar": true,
+  "showComments": false,
   "nav": {
     "title": "Knotty Biscotti's Treats!",
     "logo": "media/kb.png",
