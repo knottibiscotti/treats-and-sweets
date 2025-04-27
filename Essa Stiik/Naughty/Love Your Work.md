@@ -163,3 +163,19 @@ She *really* hoped Captain Fowler would let her keep the device when she left.
 Updated to include the art of Essa done by the very talented artist and my friend [Zimaja](https://linktr.ee/zimaja)  She has more, higher resolution art of Essa as well as her own OCs over on her [Patreon](https://www.patreon.com/c/zimaja) and on [BlueSky](https://bsky.app/profile/xxxzilu.bsky.social). Go check them out!
 
 <signature>Knotty</signature>
+
+<script src="https://giscus.app/client.js"
+        data-repo="knottibiscotti/treats-and-sweets"
+        data-repo-id="R_kgDOOYpDQw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOOYpDQ84CpQ5d"
+        data-mapping="pathname"
+        data-strict="1"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="bottom"
+        data-theme="fro"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async></script>
